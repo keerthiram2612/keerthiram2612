@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @keerthiram2612
 - 👀 I’m interested to learn about coding 
 - 🌱 I’m currently learning Btech(Information Technology)in JEC college
-- 
--
-
+- dream it wish it do it....
 <!---
 keerthiram2612/keerthiram2612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
