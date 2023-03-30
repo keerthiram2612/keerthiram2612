@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @keerthiram2612
 - 👀 I’m interested to learn about coding 
+- Learning web3
 - 🌱 I’m currently learning Btech(Information Technology)in JEC college
 - dream it wish it do it....
 <!---
